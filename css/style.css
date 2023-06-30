@@ -36,6 +36,8 @@ body {
     color: white;
     text-align: center;
     z-index: 1;
+    position: sticky;
+    top: 0px;
 }
 
 .nav-link {
