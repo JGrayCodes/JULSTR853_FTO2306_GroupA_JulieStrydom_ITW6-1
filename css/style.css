@@ -9,6 +9,9 @@ body {
 /* ---- Back to top ---- */
 
 #back-to-top > button{
+    position: fixed;
+    right: 80px;
+    bottom: 80px;
     background-color: rgb(198, 156, 78);
     border-radius: 50%;
     border: solid 1px rgb(198, 156, 78);
