@@ -74,6 +74,8 @@ button:hover {
     border-radius: 10%;
     width: 300px;
     height: 225px;
+    position: relative;
+    top: 75px;
 }
 
 /* ---- Content ----- */
